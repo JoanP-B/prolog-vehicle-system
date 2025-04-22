@@ -33,11 +33,9 @@ Este proyecto consiste en un sistema de gestión de ventas de vehículos impleme
 2. Carga el archivo con:
    ```prolog
    ?- [vehicle_catalog].
+   
 Ejecuta consultas como:
 
-prolog
-Copiar
-Editar
 ?- meet_budget(corolla, 25000).
 ?- refs_by_brand(toyota, Refs).
 ?- generate_report(toyota, suv, 30000, 100000, Result).
@@ -52,7 +50,7 @@ Editar
 
 🎥 Video explicativo
 
-📺 Ver video ← Reemplazar con tu link real
+📺 Ver video ← https://youtu.be/TQIaY3nyOXA
 
 👤 Integrante
 Joan Peralta Bedoya
